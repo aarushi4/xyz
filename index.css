@@ -1,0 +1,105 @@
+body{
+	background-color: pink;
+}
+header
+  {
+	padding : 50;
+	
+	 }
+	  div.footer
+	  {
+  	 background-color: black;
+  	 color: white;
+  	 padding: 10px;
+  	 text-align: center;
+  	 font-family: cursive;
+     position: fixed;
+     left: 0;
+  	 bottom: 0;
+     width: 100%
+ }
+   li a
+   {
+   	color: blue;
+   	text-decoration-color: red;
+   }
+   li
+   {
+   	display: inline;
+   	margin: 35px;
+   	font-family: monospace;
+
+   }
+   li a:hover{ 
+   	color: red;
+
+   }
+ 
+   h1{
+
+   	color: purple;
+   	font-size-adjust: 50;
+   	text-align: center;
+
+   }
+  	
+  h3{
+   		text-align: right;
+  }
+  
+ 
+
+  
+
+
+
+  div.gallery 
+  {
+  margin: 10px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 250px;
+
+ }
+
+div.gallery:hover 
+{
+  border: 1px solid #777;
+}
+
+div.gallery img 
+{
+  width: 100%;
+  height: 59%;
+  
+}
+
+div.desc 
+{
+  padding: 30px;
+  text-align: center;
+}
+  div.stl
+  {
+  	background-color: black;
+  	color: black;
+  	font-family: cursive;
+  	font-size-adjust: 50%;
+  }
+  
+ 
+  div.sign{
+    background-color: lightblue;
+    color: black;
+    font-family: cursive;
+    font-size-adjust: 50%;
+  }
+
+  div.up{
+    background-color: lightblue;
+    color: black;
+    font-family: cursive;
+    font-size-adjust: 50%;
+  }
+
+ 
